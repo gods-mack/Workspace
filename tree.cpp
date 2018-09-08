@@ -103,7 +103,7 @@ void add(int x)
  {
    if(tmp->data==x) { cout<<x<< " !! FOUND !! :) "<<endl ; }
      if(tmp->data>x)
-      { if(tmp!=NULL)
+      { if(tmp->left!=NULL)
          { search(tmp->left,x); }
          else { cout<<x<<" **NOT FOUND** "; }
        }
