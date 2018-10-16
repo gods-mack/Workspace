@@ -2,15 +2,13 @@
 
 #include<iostream>
 #include<cstdio>
-int front = -1, rear =-1;
 
-int isFullnclude<cstdio>
 #define SIZE 5
 using namespace std;
 
-
+int front = -1, rear =-1;
 int arr[SIZE];
-()
+int isFull()
 {
     if( (front == rear + 1) || (front == 0 && rear == SIZE-1))
     { return 1; }
