@@ -13,18 +13,40 @@
 
 using namespace std;
 
-void edge(vector<int> a[],int u,int v)
+class graph {
+
+public:
+ 
+ //graph(int V); 
+vector<int> adj[7];
+int V=7;
+
+ 
+ void edge(int u,int v);
+ void printGraph();
+ void print();
+ void BFS(int s);
+
+};
+
+/*graph::graph(int V) 
+{ 
+    this->V = V; 
+    adj = new list<int>[V]; 
+} */
+   
+void graph::edge(int u,int v)
 {
 
 
- a[u].push_back(v);
- a[v].push_back(u);
+ adj[u].push_back(v);
+ adj[v].push_back(u);
 
 }
 
-void printGraph(vector<int> adj[], int V) 
+void graph::printGraph() 
 { 
-    for (int v = 0; v < V; ++v) 
+    for (int v = 1; v < V; ++v) 
     { 
         cout << "\n Adjacency list of vertex "
              << v << "\n head "; 
@@ -34,9 +56,9 @@ void printGraph(vector<int> adj[], int V)
     } 
 } 
 
-void print(vector<int> adj[], int V) 
+void graph::print() 
 { 
-    for (int v = 0; v < V; ++v) 
+    for (int v = 1; v < V; ++v) 
     { 
         cout << "\n Adjacency list of vertex "
              << v << "\n head "; 
@@ -48,27 +70,68 @@ void print(vector<int> adj[], int V)
       cout<<endl;
     } 
 }  
+
+void graph::BFS(int s)
+{ 
+ cout<<" Breadh First Traversal  of Graph "<<endl;
+   bool *flag= new bool[V]; 
+    for(int i = 0; i < V; i++) 
+       {  flag[i] = false;  } 
+   
+   list<int> queue;
+  
+ flag[s]=true; 
+ queue.push_back(s);
+  
+  //list<int> queue::iterator i;
+ 
+ while(!queue.empty())
+ { 
+    s=queue.front(); 
+    cout<<s<<" "; 
+    queue.pop_front(); 
+ 
+   for(int j=0;j<adj[s].size();j++)
+   { 
+     if(flag[adj[s][j]]==false) 
+     {
+      queue.push_back(adj[s][j]); 
+      flag[adj[s][j]]=true;
+     }
+      
+   }
+ 
+   
+  
+   }
+
+}
+
+
+
+ 
  
 
 int main()
 {
  
- int V=5;  //No of Vertcies
- vector<int> a[V];
-    edge(a, 0, 1); 
-    edge(a, 0, 4); 
-    edge(a, 1, 2); 
-    edge(a, 1, 3); 
-    edge(a, 1, 4); 
-    edge(a, 2, 3); 
-    edge(a, 3, 4); 
-    edge(a,4,2);
+  //No of Vertcies
+  graph g;
+  //g(5);
+    g.edge( 1, 2);  
+    g.edge( 1, 3); 
+    g.edge( 2, 4); 
+    g.edge( 2, 5); 
+    g.edge( 3, 5); 
+    g.edge( 4, 6);
+    g.edge( 5, 6);
    
-    printGraph(a, V); 
+    g.printGraph(); 
    cout<<endl;
+  g.BFS(1);
  // cout<<a[1][2];
 
-print(a,V);
+g.print();
 }
 
 
