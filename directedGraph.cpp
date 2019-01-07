@@ -4,7 +4,7 @@
 using namespace std;
 
 
-void findOutdegree(int source, vector< pair<int,int > > &edge)
+void findOutdegree(int source, const vector< pair<int,int > > &edge)
 {
  int count=0;
  for(int i=0;i<6;i++)
