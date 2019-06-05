@@ -8,6 +8,8 @@
  #include<iostream>
  using namespace std;
  
+ */
+ 
  
 int fun1(int x, int y)  
 { 
