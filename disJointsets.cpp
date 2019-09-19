@@ -48,6 +48,9 @@ public:
 
 	}
 
+     
+     
+	// Finds the representative of this set
 	node* find_parent(node *tmp){
 		node *parent = tmp->parent;
 		if(parent == tmp){
@@ -58,9 +61,7 @@ public:
 		return tmp->parent;
 	}
 
-	/**
-     * Finds the representative of this set
-     */
+	// find set of this given element
 	int findSet(int data){
 		return find_parent(mapp[data])->data;
 	}
