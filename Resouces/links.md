@@ -7,3 +7,6 @@
 [c++(comparator,constructor)codechef](https://www.codechef.com/wiki/using-constructors-and-comparators-c)
 
 [competitive-progmming repos](https://github.com/dragonslayerx/Competitive-Programming-Repository)
+
+
+[NPTEL-OS sorav bansal](https://www.youtube.com/watch?v=z3Nw5o9dS7Q&list=PLsylUObW5M3CAGT6OdubyH6FztKfJCcFB)
