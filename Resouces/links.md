@@ -16,3 +16,7 @@
 [NPTEL-OS sorav bansal](https://www.youtube.com/watch?v=z3Nw5o9dS7Q&list=PLsylUObW5M3CAGT6OdubyH6FztKfJCcFB)
 
 [OS-dev.org](https://wiki.osdev.org/Main_Page)
+
+   ### xv6 realed resources
+   
+   [xv6 memory mangg.](https://www.youtube.com/watch?v=8LS8TCxJqCg&list=PLEJxKK7AcSEGPOCFtQTJhOElU44J_JAun&index=9)
