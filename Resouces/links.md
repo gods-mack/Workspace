@@ -17,6 +17,8 @@
 
 [OS-dev.org](https://wiki.osdev.org/Main_Page)
 
+[multithreading in C / pthread in Linux)(https://www.geeksforgeeks.org/multithreading-c-2/)
+
    ### xv6 related resources
    
    [xv6 memory mangg.](https://www.youtube.com/watch?v=8LS8TCxJqCg&list=PLEJxKK7AcSEGPOCFtQTJhOElU44J_JAun&index=9)
