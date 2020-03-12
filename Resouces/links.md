@@ -17,6 +17,8 @@
 
 [OS-dev.org](https://wiki.osdev.org/Main_Page)
 
+[OS Development](http://www.brokenthorn.com/Resources/OSDevIndex.html)
+
 [multithreading in C / pthread in Linux](https://www.geeksforgeeks.org/multithreading-c-2/)
 
    ### xv6 related resources
