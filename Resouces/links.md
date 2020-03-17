@@ -23,6 +23,8 @@
 
 [multithreading in C / pthread in Linux](https://www.geeksforgeeks.org/multithreading-c-2/)
 
+[Linux related](https://www.tldp.org/LDP/tlk/tlk-toc.html)
+
    ### xv6 related resources
    
    [xv6 memory mangg.](https://www.youtube.com/watch?v=8LS8TCxJqCg&list=PLEJxKK7AcSEGPOCFtQTJhOElU44J_JAun&index=9)
