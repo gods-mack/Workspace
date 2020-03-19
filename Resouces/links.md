@@ -30,6 +30,6 @@
    [xv6 memory mangg.](https://www.youtube.com/watch?v=8LS8TCxJqCg&list=PLEJxKK7AcSEGPOCFtQTJhOElU44J_JAun&index=9)
 
 
-  ### Computer Vision related resources
+ ## Computer Vision related resources
     
-    [github link for CV](https://github.com/jbhuang0604/awesome-computer-vision#books)
+  [github link for CV](https://github.com/jbhuang0604/awesome-computer-vision#books)
