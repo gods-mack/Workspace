@@ -33,3 +33,5 @@
  ## Computer Vision related resources
     
   [github link for CV](https://github.com/jbhuang0604/awesome-computer-vision#books)
+  
+  [Comp. Vision video lect. by Alberto Romay](https://www.youtube.com/playlist?list=PL7v9EfkjLswLfjcI-qia-Z-e3ntl9l6vp)
