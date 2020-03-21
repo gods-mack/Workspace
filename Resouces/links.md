@@ -21,6 +21,8 @@
 
 [CS333 Intro to OS](http://web.cecs.pdx.edu/~walpole/class/cs333/fall2012/home.html)
 
+[OS three easy steps](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+
 [Bran's Kernel Development Tutorial](http://www.osdever.net/tutorials/view/brans-kernel-development-tutorial)
 
 [multithreading in C / pthread in Linux](https://www.geeksforgeeks.org/multithreading-c-2/)
