@@ -19,6 +19,8 @@
 
 [OS Development](http://www.brokenthorn.com/Resources/OSDevIndex.html)
 
+[CS333 Intro to OS](http://web.cecs.pdx.edu/~walpole/class/cs333/fall2012/home.html)
+
 [Bran's Kernel Development Tutorial](http://www.osdever.net/tutorials/view/brans-kernel-development-tutorial)
 
 [multithreading in C / pthread in Linux](https://www.geeksforgeeks.org/multithreading-c-2/)
