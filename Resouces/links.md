@@ -32,6 +32,7 @@
    ### xv6 related resources
    
    [xv6 memory mangg.](https://www.youtube.com/watch?v=8LS8TCxJqCg&list=PLEJxKK7AcSEGPOCFtQTJhOElU44J_JAun&index=9)
+   [xv6 process mangg](https://www.cse.iitb.ac.in/~mythili/teaching/cs347_autumn2016/notes/03-xv6-process.pdf)
 
 
  ## Computer Vision related resources
