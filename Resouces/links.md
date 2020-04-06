@@ -29,6 +29,11 @@
 
 [Linux related](https://www.tldp.org/LDP/tlk/tlk-toc.html)
 
+[Anatomy of a Program in Memory](https://manybutfinite.com/post/anatomy-of-a-program-in-memory/)
+
+[malloc tutorial](https://danluu.com/malloc-tutorial/)
+
+
    ### xv6 related resources
    
    [xv6 memory mangg.](https://www.youtube.com/watch?v=8LS8TCxJqCg&list=PLEJxKK7AcSEGPOCFtQTJhOElU44J_JAun&index=9)
