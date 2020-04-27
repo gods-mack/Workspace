@@ -33,6 +33,8 @@
 
 [malloc tutorial](https://danluu.com/malloc-tutorial/)
 
+[writing your own Operating system videos](https://www.youtube.com/channel/UCQdZltW7bh1ta-_nCH7LWYw)
+
 
    ### xv6 related resources
    
