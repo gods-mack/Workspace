@@ -29,6 +29,8 @@
 
 [Linux related](https://www.tldp.org/LDP/tlk/tlk-toc.html)
 
+[Linux:Process Scheduling Article (Medium)](https://medium.com/hungys-blog/linux-kernel-process-scheduling-8ce05939fabd)
+
 [Anatomy of a Program in Memory](https://manybutfinite.com/post/anatomy-of-a-program-in-memory/)
 
 [malloc tutorial](https://danluu.com/malloc-tutorial/)
