@@ -57,4 +57,5 @@
 [10-extraordinary-github-repos-for-all-developer](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0)
 
 [Awesome C++](https://github.com/fffaraz/awesome-cpp)
+
 [Design & Resue Industry level articles](https://www.design-reuse.com/articles/embedded-systems-0.html)
