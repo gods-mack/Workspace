@@ -37,6 +37,8 @@
 
 [writing your own Operating system videos](https://www.youtube.com/channel/UCQdZltW7bh1ta-_nCH7LWYw)
 
+[CS170 OS by Rich Wolski](https://sites.cs.ucsb.edu/~rich/class/cs170/lecture_notes.html)
+
 
    ### xv6 related resources
    
