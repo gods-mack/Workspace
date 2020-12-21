@@ -41,6 +41,8 @@
 
 [CS170 OS by Rich Wolski](https://sites.cs.ucsb.edu/~rich/class/cs170/lecture_notes.html)
 
+[Linux memory mangg](https://www.youtube.com/watch?v=BZgEpJAysLM)
+
 
    ### xv6 related resources
    
