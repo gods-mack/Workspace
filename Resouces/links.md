@@ -41,6 +41,8 @@
 
 [CS170 OS by Rich Wolski](https://sites.cs.ucsb.edu/~rich/class/cs170/lecture_notes.html)
 
+[Linux memory management](https://www.youtube.com/watch?v=7aONIVSXiJ8&t=255s)
+
 [Linux memory mangg](https://www.youtube.com/watch?v=BZgEpJAysLM)
 
 
