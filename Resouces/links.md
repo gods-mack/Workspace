@@ -45,6 +45,8 @@
 
 [Linux memory mangg](https://www.youtube.com/watch?v=BZgEpJAysLM)
 
+[Linux kernel teaching](https://linux-kernel-labs.github.io/refs/heads/master/)
+
 
    ### xv6 related resources
    
