@@ -73,3 +73,5 @@
 [Rutgers System programming Notes CS214](https://github.com/11/Systems214/tree/master/notes)
 
 [System programming](https://github.com/angrave/SystemProgramming/wiki)
+
+[awesome for beginner](https://github.com/rkc007/awesome-for-beginners)
