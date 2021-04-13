@@ -83,3 +83,5 @@
 
 ## Distributed system
 [distrbuted system github](https://github.com/aphyr/distsys-class)
+
+[Youtube lectures by Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
