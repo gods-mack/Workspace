@@ -80,6 +80,8 @@
 
 [awesome for beginner](https://github.com/rkc007/awesome-for-beginners)
 
+[C/C++ dev interview guides](https://github.com/huihut/interview/blob/master/README_en.md)
+
 
 ## Distributed system
 [distrbuted system github](https://github.com/aphyr/distsys-class)
