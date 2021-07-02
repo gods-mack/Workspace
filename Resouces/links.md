@@ -47,6 +47,8 @@
 
 [Linux kernel teaching](https://linux-kernel-labs.github.io/refs/heads/master/)
 
+[System programming git repo](https://github.com/jstrieb/systems-programming-cheat-sheet)
+
 
    ### xv6 related resources
    
