@@ -49,6 +49,8 @@
 
 [System programming git repo](https://github.com/jstrieb/systems-programming-cheat-sheet)
 
+[Design of Unix Operating system - Maurice J. Bach - Notes](https://github.com/suvratapte/Maurice-Bach-Notes)
+
 
    ### xv6 related resources
    
