@@ -93,3 +93,6 @@
 [Youtube lectures by Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 
 [Distributed course another](https://www.youtube.com/watch?v=7VbL89mKK3M&list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A)
+
+
+https://github.com/InterviewReady/system-design-resources
