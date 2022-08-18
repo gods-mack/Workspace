@@ -94,5 +94,7 @@
 
 [Distributed course another](https://www.youtube.com/watch?v=7VbL89mKK3M&list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A)
 
+[Microservice Arch by microservice.io](https://microservices.io/patterns/microservices.html)
+
 
 https://github.com/InterviewReady/system-design-resources
