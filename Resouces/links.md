@@ -96,5 +96,7 @@
 
 [Microservice Arch by microservice.io](https://microservices.io/patterns/microservices.html)
 
+[Optimizing-Python code](https://www.airpair.com/python/posts/optimizing-python-code)
+
 
 https://github.com/InterviewReady/system-design-resources
