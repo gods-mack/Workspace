@@ -98,5 +98,7 @@
 
 [Optimizing-Python code](https://www.airpair.com/python/posts/optimizing-python-code)
 
+[Multitenant-Application Medium Article](https://medium.com/@sudheer.sandu/multi-tenant-application-68c11cc68929)
+
 
 https://github.com/InterviewReady/system-design-resources
