@@ -89,6 +89,8 @@
 [START CS Degree from Here](https://docs.google.com/document/d/1OIcQ8dJ_FAhdkirU94M29-ZbNZ4oQs1LbWF3Nz-mq_U/edit#)
 
 
+[make your own Programming Lang or craft an interpreter](https://craftinginterpreters.com/)
+
 ## Distributed system
 [distrbuted system github](https://github.com/aphyr/distsys-class)
 
