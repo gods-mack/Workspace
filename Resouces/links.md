@@ -51,6 +51,8 @@
 
 [Design of Unix Operating system - Maurice J. Bach - Notes](https://github.com/suvratapte/Maurice-Bach-Notes)
 
+[Operating System Design - Xinu](https://github.com/Kikou1998/textbook/blob/master/Operating%20System%20Design%20The%20Xinu%20Approach.pdf)
+
 
    ### xv6 related resources
    
