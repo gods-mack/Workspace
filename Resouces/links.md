@@ -108,3 +108,5 @@
 
 
 https://github.com/InterviewReady/system-design-resources
+
+[Engineering Blogs](https://workat.tech/system-design/article/best-engineering-blogs-articles-videos-system-design-tvwa05b8bzzr)
