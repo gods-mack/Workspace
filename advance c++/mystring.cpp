@@ -2,55 +2,57 @@
 
 #include<iostream>
 #include<cstring>
+//using namespace std;
+
 
 class String {
 public:
 	String() {
-		res = nullptr;
-		len = 0;
+		_buffer  = nullptr;
+		length  = 0;
 	}
 	String (const char *data) {
 
-		this->len == strlen(data);
-		res = new char[len+1];
-		strcpy(res, data);
+		this->length = strlen(data);
+		_buffer = new char[length + 1];
+		strcpy(_buffer, data);
 	}
 	String (const String &obj) {
 
-		len = obj.len;
-		res = new char[len+1];
-		strcpy(res, obj.res);
+		length = obj.length;
+		_buffer = new char[length+1];
+		strcpy(_buffer, obj._buffer);
 	}
 	String& operator=(const String& obj) {
 
 		if (this != &obj){ // check for self-assignment  , e.g str2=str2
-			char *tmp = res;
-			len = obj.len;
-			res = new char[len+1];
-			strcpy(res, obj.res);
-			delete[] res;
+			char *tmp = _buffer;
+			length = obj.length;
+			_buffer = new char[length + 1];
+			strcpy(_buffer, obj._buffer);
+			delete[] tmp;
 		}
 		return *this;
 	}
 	~String() {
-
-		if (res){
-			cout<<"desc on "<<res<<endl;
-			delete[] res;
+		if (_buffer){
+			delete[] _buffer;
+			_buffer = nullptr;
+			length = 0;
 		}
 	}
-	friend ostream& operator<<(ostream &out, const String& str);
-	friend istream& operator>>(istream &in, const String& str);
+	friend std::ostream& operator<<(std::ostream &out, const String& str);
+	friend std::istream& operator>>(std::istream &in, const String& str);
 private:
-	char *res;
-	unsigned int len;
+	char *_buffer;
+	size_t length;
 };
-ostream& operator<<(ostream &out, const String& str) {
-	out<<str.res;
+std::ostream& operator<<(std::ostream &out, const String& str) {
+	out<<str._buffer;
 	return out;
 }
- istream& operator>>(istream &in, 	const String& str) {
-	in>>str.res;
+std::istream& operator>>(std::istream &in, 	const String& str) {
+	in>>str._buffer;
 	return in;
 }
 
@@ -64,6 +66,6 @@ int main() {
 	//std::string s;
 	//s = str2;
 	//std::cout<<s;
-	std::cout<<str2<<endl;
+	std::cout<<str2;
 
 }
