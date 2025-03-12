@@ -1,0 +1,11 @@
+Lets try something different for this post. I asked OpenAI chat, “write a blog post about differences between CyberArk Vault and HashiCorp Vault”. In my opinion, it’s a pretty good blog and passes the BS meter test. What do you think?
+
+“*CyberArk Vault and HashiCorp Vault are two popular tools for secrets management and infrastructure as code. While both offer similar capabilities, there are some key differences that may make one a better fit for your organization over the other.
+
+One of the main differences between CyberArk Vault and HashiCorp Vault is the target audience. CyberArk Vault is primarily geared towards enterprise organizations, with a focus on security and compliance. It offers advanced features such as multi-factor authentication and integration with various identity management systems. On the other hand, HashiCorp Vault is designed to be more flexible and developer-friendly, making it a popular choice for startups and smaller organizations.
+
+Another key difference is the way in which the two tools store and manage secrets. CyberArk Vault uses a proprietary database to store secrets, while HashiCorp Vault uses an open source backend storage solution such as Consul or MySQL. This allows HashiCorp Vault to be more easily integrated with other tools and systems, but may not offer the same level of security as CyberArk Vault’s proprietary database.
+
+In terms of pricing, CyberArk Vault tends to be more expensive than HashiCorp Vault. It also requires a more complex deployment process, with the option to deploy on-premises or in the cloud. HashiCorp Vault, on the other hand, is relatively easy to deploy and can be run in a variety of environments, including on-premises, in the cloud, or as a managed service.
+
+Overall, both CyberArk Vault and HashiCorp Vault are powerful tools for secrets management and infrastructure as code. The right choice for your organization will depend on your specific needs and priorities. If security and compliance are top priorities, CyberArk Vault may be the better option. On the other hand, if flexibility and ease of use are more important, HashiCorp Vault may be the better choice.”
